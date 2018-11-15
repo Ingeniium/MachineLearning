@@ -1,0 +1,1 @@
+function [theta1Grad, theta2Grad] backPropogation(Theta1,Theta2,X,y)
