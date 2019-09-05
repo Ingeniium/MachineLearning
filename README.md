@@ -1,5 +1,4 @@
 # MachineLearning
-This repository is going to be composed of code I wrote to learn about machine learning from Andrew Ng's online class
 
 8/31/2018
 ---------
@@ -8,3 +7,7 @@ I have uploaded my C# code, although I have octave code on my laptop still. I be
 11/14/2018
 ---------
 I have decided to upload my original Octave classwork. I plan to finish those classes when I have the time.
+
+9/5/2019
+---------
+I have created code for doing K means algorithm in C++.
